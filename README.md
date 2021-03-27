@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science and Engineering at Northern University Bangladesh.
-- - 🎓 &nbsp; Studied Computer Science and Technology at Feni Computer Institute
+- 🎓 &nbsp; Studied Computer Science and Technology at Feni Computer Institute
 - 💼 &nbsp; Working as a Software Engineer at Simec Systems Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Core Javascript.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
